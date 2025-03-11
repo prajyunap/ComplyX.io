@@ -1,1 +1,5 @@
-# SQLAlchemy User model
+from pydantic import BaseModel
+
+class User(BaseModel):
+    id: int
+    name: str

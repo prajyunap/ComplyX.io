@@ -1,1 +1,1 @@
-# Pydantic schemas for User
+# Pydantic schema for user

@@ -1,0 +1,6 @@
+{
+  'name': 'complyx-frontend',
+  'dependencies': {
+    'react': '^17.0.2'
+  }
+}
